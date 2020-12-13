@@ -1,0 +1,7 @@
+{
+  "name": "restaurentApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
